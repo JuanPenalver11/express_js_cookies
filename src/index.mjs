@@ -1,6 +1,6 @@
 import express from 'express'
 import router from './router.mjs';
-import cookieParser from 'cookie-parser';
+import cookieParser from 'cookie-parser';   // npm i cookie-parser
 //cookieParser is a function that parse the cookies information so it can be utilize 
 
 
