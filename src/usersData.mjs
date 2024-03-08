@@ -1,0 +1,22 @@
+export const usersData = [
+    {
+        id:1,
+        usename:"peach",
+        password:'helloWorld'
+    },
+    {
+        id:2,
+        usename:"naruto",
+        password:'helloWorld12'
+    },
+    {
+        id:3,
+        usename:"pinocho",
+        password:'12helloWorld'
+    },
+    {
+        id:4,
+        usename:"godzilla",
+        password:'1helloWorld2'
+    }
+]
